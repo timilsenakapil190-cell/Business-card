@@ -101,3 +101,7 @@ Edit the text inside `index.html` to replace the sample details with your own:
 
 Windows & Chrome shortcuts guide:
 https://docs.google.com/document/d/1JOMTayP5rjC2nOj9kJcUdauzbSGelKVhrtaBjWH0qtU/edit?usp=drivesdk
+
+## Google sheet link.
+
+https://docs.google.com/spreadsheets/d/1UPrTALjUfgFpUTOERZmxVGSskrXYPBUxJsyHLTH72As/edit?usp=sharing
